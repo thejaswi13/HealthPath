@@ -269,7 +269,7 @@ with st.expander("Discover HealthPath", expanded=False):
         </p>
         <ul style='color: #555; list-style-type: none; padding-left: 0;'>
             <li>✨ <strong>Smart Insights:</strong> Our cutting-edge clustering tech analyzes your unique health data to deliver real-time, actionable advice.</li>
-            <li>💬 <strong>Your AI Buddy:</strong> Chat with our friendly health assistant anytime—get tips, answers, and support that fit your life (full AI demo in video [link]).</li>
+            <li>💬 <strong>Your AI Buddy:</strong> Chat with our friendly health assistant anytime—get tips, answers, and support that fit your life.</li>
             <li>💪 <strong>Empowerment Made Simple:</strong> No costs, no fuss—just practical steps to feel your best, from diet to stress and beyond.</li>
         </ul>
         <p style='color: #666; text-align: center; font-style: italic;'>
