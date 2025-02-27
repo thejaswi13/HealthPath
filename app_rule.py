@@ -216,7 +216,7 @@ if submit_button:
 
 # Chatbot section with static responses
 st.markdown("<h3 style='text-align: center; color: #333;'>Chat with Your Health Assistant</h3>", unsafe_allow_html=True)
-st.info("This is a demo chatbot.As LLM Bot requires a local server!")
+st.info("This is a Rule based chatbot")
 
 user_query = st.text_input("Ask Anything!", "", help="What’s on your mind about your health?")
 if user_query:
