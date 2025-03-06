@@ -273,7 +273,7 @@ with st.expander("Discover HealthPath", expanded=False):
             <li>💪 <strong>Empowerment Made Simple:</strong> No costs, no fuss—just practical steps to feel your best, from diet to stress and beyond.</li>
         </ul>
         <p style='color: #666; text-align: center; font-style: italic;'>
-            Built with care for your hackathon win and a healthier tomorrow—because your health matters!
+            Built with care for a healthier tomorrow—because your health matters!
         </p>
     </div>
     """, unsafe_allow_html=True)
